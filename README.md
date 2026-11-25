@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome humans
 
-<!--
-**iwonder-404/iwonder-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can  call me 404 or Phantom or how you like this is my lovely github page where i am super inactive but i still want to introduce my self.  
+I am learning cyber security my self i am activly working on learning development in C, Asm x86_x64, Python.  
+I am also learning alot about making security tools both sides of the force.  
+I find most fun in making offensive tooling special post-exploitation stuff and i love evading security software or learning about it.  
+I am also working on a small blog site if you are interested check it out some times!  
+I do got dyslexia so i make alot of grammer errors also i program mostly super compact so dont expect mega clean code please.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+crowwaref4ty723ehjubfoswloyxcfijcz47jn4xsyronubjw7tarxqd.onion
+```
